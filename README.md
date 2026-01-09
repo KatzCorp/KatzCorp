@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Itay Katz
--  Creator of MONE app
+- 👋 Hi, Welcome To KatzCorp
+-  Creator Of MONE App
 
 <!---
 KatzCorp/KatzCorp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
